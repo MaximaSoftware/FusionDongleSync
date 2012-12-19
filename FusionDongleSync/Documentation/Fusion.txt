@@ -1,0 +1,6 @@
+[User]
+Fusion Dongle Codes, 20-20 Technologies Ltd.
+18/09/2012 11:50:54
+Customer Name: Planit Fusion
+[RUS]
+12345 = "HTMBWECET2M678WBYSDRSVLLXXUBXXJV","1","INTO0016"
