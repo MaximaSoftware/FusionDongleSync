@@ -1,0 +1,6 @@
+[User]
+Fusion Dongle Codes, 20-20 Technologies Ltd.
+18/09/2012 11:50:54
+Customer Name: Planit Fusion
+[RUS]
+56747 = "WSY6F7SG9668Y42FBHLJY4NNTGTFXZA4","1","INTO0016"
